@@ -16,11 +16,9 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 ## Program:
 ```
-/*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Sudharsanam R K
+RegisterNumber:  212222040163
 ```
 ```python
 import numpy as np
@@ -61,7 +59,7 @@ print(f"Predicted Value: {pre}")
 
 ## Output:
 ![startup_csv file](https://github.com/SudharsanamRK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115523484/e474c78f-840e-477e-91f6-fb73f1c7c953)
-![image](https://github.com/SudharsanamRK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115523484/53886a4a-d489-4fe0-8225-27a3a10f5a1a)
+![Predicted Value](https://github.com/SudharsanamRK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/115523484/53886a4a-d489-4fe0-8225-27a3a10f5a1a)
 
 
 ## Result:
